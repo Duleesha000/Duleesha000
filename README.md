@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Duleesha</h1>
 <h3 align="center">A passionate programmer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=duleesha000&label=Profile%20views&color=0e75b6&style=flat" alt="duleesha000" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=duleesha000&label=Profile%20views&color=0e75b6&style=flat" alt="duleesha000" /> 
+  <img align="right" src="https://github.com/Duleesha000/Duleesha000/blob/main/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif" height="300" width="600" /> 
+</p>
 
 - 🌱 I’m currently learning **python**
 
 - 💬 Ask me about **java**
 
 - 📫 How to reach me **pereraduleesha6@gmail.com**
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/duleesha perera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="duleesha perera" height="30" width="40" /></a>
