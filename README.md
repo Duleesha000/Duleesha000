@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Duleesha</h1>
+<p align="center"><img  src="https://github.com/Duleesha000/Duleesha000/blob/main/connecting.gif" height="100" width="200"  /> 
+<h1 align="center">Hi 👋, I'm Duleesha </h1
 <h3 align="center">A passionate programmer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duleesha000&label=Profile%20views&color=0e75b6&style=flat" alt="duleesha000" /> 
