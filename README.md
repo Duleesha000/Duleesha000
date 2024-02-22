@@ -2,7 +2,7 @@
 <h3 align="center">A passionate programmer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duleesha000&label=Profile%20views&color=0e75b6&style=flat" alt="duleesha000" /> 
-  <img align="right" src="https://github.com/Duleesha000/Duleesha000/blob/main/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif" height="250" width="550" /> 
+  <img align="right" src="https://github.com/Duleesha000/Duleesha000/blob/main/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif" height="250" width="500" /> 
 </p>
 
 - 🌱 I’m currently learning **python**
