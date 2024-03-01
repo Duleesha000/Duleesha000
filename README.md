@@ -1,6 +1,11 @@
 <p align="center"><img  src="https://github.com/Duleesha000/Duleesha000/blob/main/connecting.gif" height="100" width="200"  /> 
-<h1 align="center">Hi 👋, I'm Duleesha </h1
-<h3 align="center">A passionate programmer from Sri Lanka</h3>
+<h1 align="center">Hi 👋, I'm Duleesha </h1>
+  
+  <p align="center">
+    <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
+  <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Undergraduate+Student..&hearts;++;Programmer;Active+Learner;Love+to+learn+new+stuffs.."></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duleesha000&label=Profile%20views&color=0e75b6&style=flat" alt="duleesha000" /> 
   <img align="right" src="https://github.com/Duleesha000/Duleesha000/blob/main/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif" height="250" width="500" /> 
