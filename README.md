@@ -1,5 +1,5 @@
 <p align="center"><img  src="https://github.com/Duleesha000/Duleesha000/blob/main/connecting.gif" height="100" width="200"  /> 
-<h1 align="center">Hi 👋, I'm Duleesha </h1>
+<h1 align="center">Hi 👋, I'm Nimesh </h1>
   
   <p align="center">
     <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
