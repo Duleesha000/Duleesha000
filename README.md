@@ -28,7 +28,7 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/Duleesha000/snk/d7035c4aa843146d99844f20aaab8dbc8c5b3a9c/docker/github-contribution-grid-snake.svg)
+![snake gif]([https://raw.githubusercontent.com/Duleesha000/snk/d7035c4aa843146d99844f20aaab8dbc8c5b3a9c/docker/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Duleesha000/snk/d7035c4aa843146d99844f20aaab8dbc8c5b3a9c/docker/github-contribution-grid-snake.svg))
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=duleesha000&show_icons=true&locale=en&layout=compact" alt="duleesha000" /></p>
